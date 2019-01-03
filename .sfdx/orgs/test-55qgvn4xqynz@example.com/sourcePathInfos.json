@@ -1,0 +1,335 @@
+[
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546455639149,
+            "changeTime": 1546455639149,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546455639150,
+            "changeTime": 1546455639150,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367327,
+            "changeTime": 1546540367327,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546455639150,
+            "changeTime": 1546455639150,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546535357037,
+            "changeTime": 1546535357037,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\Object_Test__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\Object_Test__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2079,
+            "modifiedTime": 1546540367286,
+            "changeTime": 1546540367286,
+            "contentHash": "5de8c691e1d2db4617d21f5469b70b60b7e7f44e"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\fields\\Field_Test__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\fields\\Field_Test__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1546540367294,
+            "changeTime": 1546540367294,
+            "contentHash": "3f38bfc489d326533b45471429da33e9dbd2f14a"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1546540367296,
+            "changeTime": 1546540367296,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\layouts\\Object_Test__c-Object Test Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\layouts\\Object_Test__c-Object Test Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2087,
+            "modifiedTime": 1546540367305,
+            "changeTime": 1546540367305,
+            "contentHash": "5f06550422995b507ebad31c5a77a158691503f9"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\flexipages\\App_Test_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\flexipages\\App_Test_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1546540367313,
+            "changeTime": 1546540367313,
+            "contentHash": "8c341dfb039052224c127e2650b91eaea0d9f8e9"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\tabs\\Object_Test__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\tabs\\Object_Test__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1546540367317,
+            "changeTime": 1546540367317,
+            "contentHash": "ceb248a73fb162f1dcf8d2d3ef566b30b1095fb1"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\applications\\App_Test.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\applications\\App_Test.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1546540367321,
+            "changeTime": 1546540367321,
+            "contentHash": "a2e0b398aa6df264c393b2f5761cea1ff63149fc"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4889,
+            "modifiedTime": 1546540367330,
+            "changeTime": 1546540367330,
+            "contentHash": "e8eff42b76fd07ed2d14ddd2e3adf4c65e9ab1a5"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18761,
+            "modifiedTime": 1546540367367,
+            "changeTime": 1546540367367,
+            "contentHash": "7db501f992f137c98ed9b2751d4b45f5e5dc9a1e"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4889,
+            "modifiedTime": 1546540367374,
+            "changeTime": 1546540367374,
+            "contentHash": "e8eff42b76fd07ed2d14ddd2e3adf4c65e9ab1a5"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5227,
+            "modifiedTime": 1546540367382,
+            "changeTime": 1546540367382,
+            "contentHash": "5d3905d54f9fafdcff4ef653fb607c4fefa2b754"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367294,
+            "changeTime": 1546540367294,
+            "contentHash": "09ac1ca88884f1a23d5a142d2873fed3f717f97b"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367276,
+            "changeTime": 1546540367276,
+            "contentHash": "34f9c54071e8b839e0f69009cc4db87b4718f8ae"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367287,
+            "changeTime": 1546540367287,
+            "contentHash": "3fb6dd6949c7574c4c01b428d8659e7138e41098"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\objects\\Object_Test__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367295,
+            "changeTime": 1546540367295,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367304,
+            "changeTime": 1546540367304,
+            "contentHash": "eb4300b375beee1608e3e347f6753fb39486fd25"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367309,
+            "changeTime": 1546540367309,
+            "contentHash": "4bb0eeea1c76bd135f4efcea53b3a0c1cc2a6006"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367315,
+            "changeTime": 1546540367315,
+            "contentHash": "8a942dbd018f9fac41bcf30e4ee59737fd1dea62"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367320,
+            "changeTime": 1546540367320,
+            "contentHash": "05d7634884f3fb1f9219445d1a12226fe00a1253"
+        }
+    ],
+    [
+        "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sangryal\\firstProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546540367381,
+            "changeTime": 1546540367381,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

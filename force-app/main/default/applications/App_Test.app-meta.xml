@@ -7,9 +7,9 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Test Application</label>
+    <label>App Test</label>
     <navType>Standard</navType>
-    <tabs>Test_Object__c</tabs>
+    <tabs>Object_Test__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Test_Application_UtilityBar</utilityBar>
+    <utilityBar>App_Test_UtilityBar</utilityBar>
 </CustomApplication>

@@ -12,11 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Field_1__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Email__c</field>
+                <field>Field_Test__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
